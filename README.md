@@ -13,8 +13,8 @@
 
 ### 2025.04.22 交流回路における最大有効電力の条件と電力計算の応用
 [要約]()
-[動画]()
-[音声]()
+[動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=627b08f4-504a-4a9f-8a29-46353d89ded6&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+[音声](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=a76cc514-d3bb-497d-89e3-ca70e47750c2&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
 ### 2025.05.08 RLC直列回路における共振回路の基礎と特性解析
 [要約]()
