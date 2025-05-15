@@ -5,7 +5,6 @@
    - [詳細]()
    - [動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
    - [音声概要](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=96705804-0173-4cb8-ae4d-38094052f9a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
-<iframe src="https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=96705804-0173-4cb8-ae4d-38094052f9a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="20250408_3ES_Electric_Circuit_2_NotebookLM.wav"></iframe>
 2. 2025.04.15 交流回路における電力の概念と計算
 4. 2025.04.22 交流回路における最大有効電力の条件と電力計算の応用
 5. 2025.05.08 RLC直列回路における共振回路の基礎と特性解析
