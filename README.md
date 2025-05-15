@@ -8,8 +8,8 @@
 
 ### 2025.04.15 交流回路における電力の概念と計算
 [要約]()
-[動画]()
-[音声]()
+[動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=28739e23-c3ef-4fe7-a726-f567805cd984&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+[音声](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=247d0baa-6f09-4071-a314-f5951de51a10&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
 ### 2025.04.22 交流回路における最大有効電力の条件と電力計算の応用
 [要約]()
@@ -18,11 +18,11 @@
 
 ### 2025.05.08 RLC直列回路における共振回路の基礎と特性解析
 [要約]()
-[動画]()
-[音声]()
+[動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d1112b22-c750-4b81-ae01-2c062cdf0826&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+[音声](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=25a3abe7-467c-4967-8b5b-bce4ec9f37ab&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
-### 2025.05.14 直列・並列共振回路の基礎と共振特性の理解
+### 2025.05.13 直列・並列共振回路の基礎と共振特性の理解
 [要約]()
-[動画]()
-[音声]()
+[動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d1112b22-c750-4b81-ae01-2c062cdf0826&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+[音声](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=25a3abe7-467c-4967-8b5b-bce4ec9f37ab&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
