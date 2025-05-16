@@ -1,0 +1,46 @@
+# 2025.04.08 電気回路2の基礎と重要概念
+
+## 授業開始と録画について
+
+[:video_camera: 00:00:00](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":0}})
+
+授業を録画することの意義と出席の重要性についての説明。出席管理の規定が大学と異なることを強調し、録画は復習用と位置付ける。
+
+## 授業の構成と教科書の紹介
+
+[:video_camera: 00:02:00](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":120}})
+
+「電気回路2」という必修科目の概要と、使用する教科書について話す。教科書には豊富な例題が含まれており、自学自習に役立つと紹介。
+
+## 重要な三つのポイント
+
+[:video_camera: 00:04:50](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":290}})
+
+電気回路で重要な三つのポイントについて説明。複素数の計算、インピーダンスの計算、オームの法則とキルヒホッフの法則が鍵であることを強調。
+
+## 正弦波とその特徴
+
+[:video_camera: 00:10:40](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":640}})
+
+正弦波について再確認し、その表示方法を説明。正弦波の瞬時値表示と複素数表示の関係を解説し、角周波数や初期位相についても触れる。
+
+## オームの法則とインピーダンス
+
+[:video_camera: 00:20:14](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":1214}})
+
+交流回路におけるオームの法則を説明し、インピーダンスの定義と計算方法を導入。各素子（抵抗、インダクタ、キャパシタ）についてその関係を復習。
+
+## 直列接続と並列接続
+
+[:video_camera: 01:09:00](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":4140}})
+
+直列接続と並列接続のインピーダンスを計算する方法を説明。キルヒホッフの電圧則と電流則を用いて、回路全体の挙動を理解させる。
+
+## 授業のまとめと今後の展望
+
+[:video_camera: 01:27:44](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&nav={"playbackOptions":{"startTimeInSeconds":5264}})
+
+授業の内容を振り返り、今後の課題や実践的な演習の必要性について述べる。学生が自信を持って電気回路を学ぶことが目標であると締めくくる。
+
+
+
