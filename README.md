@@ -1,7 +1,7 @@
 # とある高専のとある電気回路の授業 2025
 
 ## 前期中間試験の範囲
-### 2025.04.08 ガイダンスと電気回路の基礎
+### 2025.04.08 ガイダンス、電気回路の基礎と重要概念
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250408.md)
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d04c620c-f40d-4ef4-91c7-2246e009207f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 [:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=96705804-0173-4cb8-ae4d-38094052f9a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
