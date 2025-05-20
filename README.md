@@ -26,3 +26,8 @@
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d1112b22-c750-4b81-ae01-2c062cdf0826&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 [:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=25a3abe7-467c-4967-8b5b-bce4ec9f37ab&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
+### 2025.05.20 RLC回路の共振現象と直列・並列共振回路の解析演習
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250520.md)
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=1d3856e0-0ee1-4902-b2b0-62ee686da2b4&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+[:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=e2a1ba34-a524-46b5-b65d-76acf5583a48&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+
