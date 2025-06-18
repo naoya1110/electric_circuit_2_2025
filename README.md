@@ -36,3 +36,7 @@
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=9dde8369-9012-409f-8d1e-d6f516c3f99c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) / 
 [:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=549bbdf5-4d44-4223-925a-c0805901b6c3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
+## 前期末試験の範囲
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/202505617.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=264ac332-44af-4eef-9fea-81000af43f05&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) / 
+[:speaker:音声要約]()
