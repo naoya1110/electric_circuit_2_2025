@@ -41,3 +41,8 @@
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250617.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=264ac332-44af-4eef-9fea-81000af43f05&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) / 
 [:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=1156cafa-d982-4799-9c55-7aa1bb39106a&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+
+### 2025.06.24 相互誘導回路と相互インダクタンスの基礎と応用
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250624.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=fd1f0a83-9469-482a-bb64-64ffb64d8a5b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) / 
+[:speaker:音声要約]()
