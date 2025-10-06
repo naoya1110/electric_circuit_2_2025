@@ -61,3 +61,7 @@
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250715.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=4f37f4cf-b199-4c8f-b60d-0f4143f4558a&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) / 
 [:speaker:音声要約](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=d68e91af-279d-4b61-a1b9-497a45186555&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+
+## 後期中間試験の範囲
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251005.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=2b0f76e1-3d31-4811-986b-1f5a238baf7e&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
