@@ -66,3 +66,7 @@
 ### 2025.10.03 三相交流の基本とその実用性 − 導線削減の原理と三相交流のメリット −
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251003.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=2b0f76e1-3d31-4811-986b-1f5a238baf7e&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2025.10.10 三相交流回路（Y型・デルタ型）の基礎と相電圧・線間電圧・線電流の関係
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251010.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=927896d9-8f15-4f40-b723-fa7de08931aa&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
