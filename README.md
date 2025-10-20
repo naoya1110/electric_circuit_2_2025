@@ -70,3 +70,7 @@
 ### 2025.10.10 三相交流回路（Y型・デルタ型）の基礎と相電圧・線間電圧・線電流の関係
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251010.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=927896d9-8f15-4f40-b723-fa7de08931aa&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2025.10.17 Y型対称三相交流回路の分析と複素数表現の基礎
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251017.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=541fc9e7-7b63-4f39-a675-eca168e3e6c9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
