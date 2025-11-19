@@ -82,3 +82,7 @@
 ### 2025.11.07 Y-Δ変換を用いた三相交流回路の線電流・相電流計算の実践
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251107.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=de7a074c-5686-460a-b80c-78dd16632734&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2025.11.14 三相交流回路の電力計算と回転磁界の原理
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251114.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=409b6606-97e8-4a4f-bbf0-eaba7435515f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
