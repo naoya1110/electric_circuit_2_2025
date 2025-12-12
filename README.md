@@ -94,4 +94,4 @@
 
 ### 2025.12.12 電気回路における過渡現象と瞬時値表示の基礎
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251212.md) / 
-[:video_camera:授業動画]() 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=e80ffa1c-c334-437f-8595-590295850038&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
