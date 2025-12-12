@@ -86,3 +86,12 @@
 ### 2025.11.14 三相交流回路の電力計算と回転磁界の原理
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251114.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=409b6606-97e8-4a4f-bbf0-eaba7435515f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+## 後期末試験の範囲
+### 2025.12.05 電気回路における過渡現象と瞬時値表示の基礎
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251205.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=b46983b3-b4ff-4b75-a06c-a3442508d4e7&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2025.12.12 電気回路における過渡現象と瞬時値表示の基礎
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251212.md) / 
+[:video_camera:授業動画]() 
