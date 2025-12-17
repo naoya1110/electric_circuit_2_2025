@@ -98,4 +98,4 @@
 
 ### 2025.12.17 RL直列回路の過渡現象と微分方程式による解析 SW:2(OFF) -> 1 (ON)
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251217.md) / 
-[:video_camera:授業動画](ttps://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=4cb9a75f-42bf-4d2d-9f4c-c93769fb13f8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=4cb9a75f-42bf-4d2d-9f4c-c93769fb13f8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
