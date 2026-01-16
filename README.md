@@ -92,10 +92,18 @@
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251205.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=b46983b3-b4ff-4b75-a06c-a3442508d4e7&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
 
-### 2025.12.12 RL直列回路の過渡現象と微分方程式による解析 SW:1(ON) -> 2 (OFF)
+### 2025.12.12 RL直列回路の過渡現象と微分方程式による解析 SW:1(ON) -> 2(OFF)
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251212.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=e80ffa1c-c334-437f-8595-590295850038&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
 
-### 2025.12.17 RL直列回路の過渡現象と微分方程式による解析 SW:2(OFF) -> 1 (ON)
+### 2025.12.17 RL直列回路の過渡現象と微分方程式による解析 SW:2(OFF) -> 1(ON)
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20251217.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=4cb9a75f-42bf-4d2d-9f4c-c93769fb13f8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2026.01.09 RC直列回路の過渡現象と微分方程式による解析 SW:2(OFF) -> 1(ON)
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20260109.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=c9b873da-224c-4192-a363-51d7c28e9cd0&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2026.01.16 RC直列回路の過渡現象と微分方程式による解析 SW:1(ON) -> 2(OFF)
+[:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20250116.md) / 
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=21543a70-c427-4ec5-b226-d40dc352437c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
