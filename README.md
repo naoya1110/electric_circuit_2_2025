@@ -107,3 +107,6 @@
 ### 2026.01.16 RC直列回路の過渡現象と微分方程式による解析 SW:1(ON) -> 2(OFF)
 [:blue_book:概要](https://github.com/naoya1110/electric_circuit_2_2025/blob/main/20260116.md) / 
 [:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=21543a70-c427-4ec5-b226-d40dc352437c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
+
+### 2026.01.23 日本の電力事情
+[:video_camera:授業動画](https://kosenjp.sharepoint.com/sites/039R73ESII/_layouts/15/embed.aspx?UniqueId=b014b5fb-2f2f-4dcb-9326-1b52a034a713&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create) 
